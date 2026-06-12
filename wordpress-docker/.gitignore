@@ -1,0 +1,9 @@
+# Ne jamais versionner le fichier .env (contient des secrets)
+.env
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
